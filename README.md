@@ -1,3 +1,9 @@
+### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="300"/>
+</div>
+
 # 💫 About Me:
 
 Hello, I'm Mehran Rasheed, a skilled software developer based in Hamburg Germany, with a passion for front-end and back-end web development.
