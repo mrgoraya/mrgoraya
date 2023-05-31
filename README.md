@@ -13,11 +13,11 @@
   <a href="https://www.linkedin.com/in/ingr-mehran2/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@mrg5014">
-    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white" alt="Medium Badge" width="110"/>
-  </a>
   <a href="https://www.xing.com/profile/Mehran_Rasheed/cv">
     <img src="https://img.shields.io/badge/-Xing-lightgreen?logo=xing&logoColor=white" alt="Xing Badge" width="80"/>
+  </a>
+  <a href="https://medium.com/@mrg5014">
+    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white" alt="Medium Badge" width="110"/>
   </a>
 </div>
 
@@ -35,7 +35,7 @@ With a strong background in web development and a keen eye for detail, I strive 
 <br><br>
 If you're looking for a dedicated and skilled developer to bring your ideas to life, feel free to reach out. I'm excited to collaborate and contribute to your projects.
 <br><br><br>
-📫How to reach me:
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingr-mehran2/)
 
 # 💻 Tech Stack:
 
