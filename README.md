@@ -102,17 +102,29 @@ If you're looking for a dedicated and skilled developer to bring your ideas to l
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=mrgoraya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrgoraya&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrgoraya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
+
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=mrgoraya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
+
 ### 🔝 Top Contributed Repo
 
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=mrgoraya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
