@@ -35,7 +35,7 @@ With a strong background in web development and a keen eye for detail, I strive 
 <br><br>
 If you're looking for a dedicated and skilled developer to bring your ideas to life, feel free to reach out. I'm excited to collaborate and contribute to your projects.
 <br><br><br>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingr-mehran2/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingr-mehran2/)
 
 # 💻 Tech Stack:
 
