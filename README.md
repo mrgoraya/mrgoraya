@@ -3,15 +3,16 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="300"/>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ingr-mehran2/">
+<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ingr-mehran2/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@mrg5014">
-    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white" alt="Medium Badge" width="110"/>
   </a>
   <a href="https://www.xing.com/profile/Mehran_Rasheed/cv">
-    <img src="https://img.shields.io/badge/-Xing-lightgreen?logo=xing&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/-Xing-lightgreen?logo=xing&logoColor=white" alt="Xing Badge" width="80"/>
   </a>
 </div>
 
