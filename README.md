@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h3 align="center">I'm Mehran Rasheed, a skilled software developer based in Hamburg Germany, with a passion for front-end and back-end web development and cloud engineer.</h3>
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="300"/>
@@ -18,8 +22,6 @@
 
 # 💫 About Me:
 
-Hello, I'm Mehran Rasheed, a skilled software developer based in Hamburg Germany, with a passion for front-end and back-end web development.
-<br><br>
 My expertise lies in HTML, CSS, and JavaScript, along with a strong understanding of TypeScript. I am proficient in using popular UI libraries like Material UI and Chakra UI to create visually appealing and user-friendly interfaces.
 <br><br>
 🔭 When it comes to building robust web applications, I have extensive experience with React, Node.js, and Express.js. I am adept at leveraging the power of React to develop scalable and dynamic user interfaces. Additionally, I have a solid understanding of server-side development using Node.js and Express.js, allowing me to build efficient and reliable backend systems.
