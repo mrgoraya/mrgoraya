@@ -20,6 +20,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrgoraya&style=flat-square&color=blue" alt="profile-view"/>
+</div>
+
 # 💫 About Me:
 
 My expertise lies in HTML, CSS, and JavaScript, along with a strong understanding of TypeScript. I am proficient in using popular UI libraries like Material UI and Chakra UI to create visually appealing and user-friendly interfaces.
@@ -117,10 +121,6 @@ If you're looking for a dedicated and skilled developer to bring your ideas to l
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=mrgoraya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mrgoraya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
