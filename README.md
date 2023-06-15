@@ -20,6 +20,9 @@
     <img src="https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white" alt="Medium Badge" width="110"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrgoraya&style=flat-square&color=blue" alt=""/>
+</div>
 
 # 💫 About Me:
 
@@ -107,14 +110,6 @@ If you're looking for a dedicated and skilled developer to bring your ideas to l
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=mrgoraya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrgoraya&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrgoraya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mrgoraya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
